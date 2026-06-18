@@ -1,4 +1,4 @@
-# Reproducibility Guide: bil Gene Metagenomic Survey
+# Code and data for bil Gene Metagenomic Survey
 
 ## Overview
 
