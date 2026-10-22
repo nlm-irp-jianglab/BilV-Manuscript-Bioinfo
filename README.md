@@ -1,8 +1,8 @@
-# Reproducibility Guide: bil Gene Metagenomic Survey
+# bil Gene Metagenomic Survey for the Nature Communications paper "Identification and functional characterization of bacterial bilirubin vinyl reductase across vertebrate gut microbiomes"
 
 ## Overview
 
-This repository contains the code, gene reference database, and metadata needed to reproduce the bil gene quantification from publicly available shotgun metagenomic datasets across 14 host species (1,210 samples, 20 BioProjects).
+This repository contains the code, gene reference database, and metadata needed to reproduce the bil gene quantification from publicly available shotgun metagenomic datasets across 14 host species (1,197 samples, 20 BioProjects).
 
 ## Directory structure
 
