@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # bil Gene Metagenomic Survey for the Nature Communications paper "Identification and functional characterization of bacterial bilirubin vinyl reductase across vertebrate gut microbiomes"
-=======
-# Code and data for bil Gene Metagenomic Survey
->>>>>>> 18b7f5e8ffe4a1250b579d863fa1cbbfdb260d79
 
 ## Overview
 
